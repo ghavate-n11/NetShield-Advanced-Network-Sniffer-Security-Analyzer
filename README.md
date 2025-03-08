@@ -28,3 +28,11 @@ It captures live network packets, analyzes them for threats, and provides securi
    ```bash
    npm start
    ```
+
+## 🔹 Contributors
+- **Nilesh Ghavate**
+- **Mahesh Jagadale**
+- **Laxman Allashetti**
+- **Swapnil Bhosale**
+
+
